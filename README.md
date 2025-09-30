@@ -41,6 +41,3 @@ const bool REED_NC = false; // set true for Normally-Closed reed
 - ESP8266/ESP32 push notifications (Wi‑Fi)
 - Event logging to SD card
 - Add Blue channel + night light dimming
-
-## License
-MIT
